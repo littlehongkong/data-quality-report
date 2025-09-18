@@ -1,0 +1,92 @@
+{
+    "Code": "SAN",
+    "Type": "Common Stock",
+    "Name": "Banco Santander",
+    "Exchange": "MC",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "Spain",
+    "CountryISO": "ES",
+    "OpenFigi": null,
+    "ISIN": "ES0113900J37",
+    "LEI": "5493006QMFDDMYWIAM13",
+    "PrimaryTicker": "SAN.MC",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": "1987-07-29",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments: Retail & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth Management & Insurance, and Payments. It offers demand and time deposits, mutual funds, and current and savings accounts; mortgages, consumer finance, loans, and various financing solutions; and project finance, debt capital markets, global transaction banking, and corporate finance services. The company also provides credit and debit cards, real estate loans, microfinance, and auto loans; private and investment banking services; advice on mergers and acquisitions; wealth, asset, and risk management services; and digital payments and technology solutions. In addition, it is involved in the securitization, leasing, management of portfolios, e-commerce, air transport, aircraft rental, software, consulting, payment and collection, fund and investment management, renewable energy, vehicle rental, insurance, advertising, marketing, telemarketing, automotive, agricultural, factoring, securities brokerage and investment, pension fund management, trade intermediary, venture capital fund, renting, restaurant, electricity production, IT, internet, and financial advisory and other activities; management, rental, and other real estate activities; and purchase and sale of vehicles. Further, the company offers mobile and online banking services. Banco Santander, S.A. was formerly known as Banco Santander Central Hispano SA and changed its name to Banco Santander, S.A. in February 2007. Banco Santander, S.A. was incorporated in 1856 and is headquartered in Madrid, Spain.",
+    "Address": "Santander Group City, Madrid, Spain, 28660",
+    "AddressData": {
+        "Street": "Santander Group City",
+        "City": "Madrid",
+        "Country": "Spain",
+        "ZIP": "28660"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Ms. Ana Botin-Sanz de Sautuola y O'Shea",
+            "Title": "Executive Chair",
+            "YearBorn": "1960"
+        },
+        "1": {
+            "Name": "Mr. Hector Blas Grisi Checa",
+            "Title": "Group CEO & Executive Director",
+            "YearBorn": "1966"
+        },
+        "2": {
+            "Name": "Mr. Carlos  Berastain",
+            "Title": "Head of Investor Relations & Market Intelligence",
+            "YearBorn": "NA"
+        },
+        "3": {
+            "Name": "Mr. Jose Antonio Garcia-Cantera",
+            "Title": "Senior EVP & Group Chief Financial Officer",
+            "YearBorn": "1966"
+        },
+        "4": {
+            "Name": "Mr. Juan Maria Olaizola Bartolome",
+            "Title": "Chief Operating & Technology Officer",
+            "YearBorn": "1962"
+        },
+        "5": {
+            "Name": "Mr. Kamran  Butt",
+            "Title": "Chief Investment Officer & Head of Product",
+            "YearBorn": "NA"
+        },
+        "6": {
+            "Name": "Manuel  Preto",
+            "Title": "Chief Accounting Officer",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Mr. Jose Maria Linares Perou",
+            "Title": "Senior EVP and Global Head of Corporate & Investment Banking",
+            "YearBorn": "1971"
+        },
+        "8": {
+            "Name": "Ms. Begona  Morenes",
+            "Title": "Global Head of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "9": {
+            "Name": "Mr. Jaime  Perez Renovales",
+            "Title": "Senior EVP, Group Head of General Secretariat, General Counsel & Secretary of the Board",
+            "YearBorn": "1968"
+        }
+    },
+    "Phone": "34 912 596520",
+    "WebURL": "https://www.santander.com",
+    "LogoURL": "/img/logos/MC/SAN.png",
+    "FullTimeEmployees": 204330,
+    "UpdatedAt": "2025-09-13"
+}

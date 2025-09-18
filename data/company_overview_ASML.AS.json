@@ -1,0 +1,87 @@
+{
+    "Code": "ASML",
+    "Type": "Common Stock",
+    "Name": "ASML Holding NV",
+    "Exchange": "AS",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "Netherlands",
+    "CountryISO": "NL",
+    "OpenFigi": null,
+    "ISIN": "NL0010273215",
+    "LEI": "724500Y6DUVHQD6OXN27",
+    "PrimaryTicker": "ASML.AS",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": "1995-03-15",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Technology",
+    "Industry": "Semiconductor Equipment & Materials",
+    "GicSector": "Information Technology",
+    "GicGroup": "Semiconductors & Semiconductor Equipment",
+    "GicIndustry": "Semiconductors & Semiconductor Equipment",
+    "GicSubIndustry": "Semiconductor Materials & Equipment",
+    "Description": "ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. It offers lithography, metrology, and inspection systems. The company also provides extreme ultraviolet lithography systems; and deep ultraviolet lithography systems comprising immersion and dry lithography systems solutions to manufacture various range of semiconductor nodes and technologies. In addition, it offers metrology and inspection systems, including YieldStar optical metrology systems to assess the quality of patterns on the wafers; and HMI electron beam solutions to identify and analyze individual chip defects. Further, the company provides computational lithography solutions, and lithography systems and control software solutions; and refurbishes and upgrades lithography systems, as well as offers customer support and related services. Additionally, it offers hardware, software, and services to chipmakers to produce the patterns of integrated circuits. The company operates in Japan, South Korea, Singapore, Taiwan, China, rest of Asia, the Netherlands, rest of Europe, the Middle East, Africa, and the United States. The company was formerly known as ASM Lithography Holding N.V. and changed its name to ASML Holding N.V. in 2001. ASML Holding N.V. was founded in 1984 and is headquartered in Veldhoven, the Netherlands.",
+    "Address": "De Run 6501, Veldhoven, Netherlands, 5504 DR",
+    "AddressData": {
+        "Street": "De Run 6501",
+        "City": "Veldhoven",
+        "Country": "Netherlands",
+        "ZIP": "5504 DR"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Christophe D. Fouquet",
+            "Title": "President, CEO and Chair of the Board of Management",
+            "YearBorn": "1973"
+        },
+        "1": {
+            "Name": "Mr. Roger J. M. Dassen Ph.D.",
+            "Title": "Executive VP, CFO & Member of the Management Board",
+            "YearBorn": "1965"
+        },
+        "2": {
+            "Name": "Mr. Frederic J. M. Schneider-Maunoury",
+            "Title": "Executive VP, COO & Member of the Management Board",
+            "YearBorn": "1961"
+        },
+        "3": {
+            "Name": "Mr. James P. Koonmen",
+            "Title": "Executive VP, Chief Customer Officer & Member of Management Board",
+            "YearBorn": "1967"
+        },
+        "4": {
+            "Name": "Mr. Wayne R. Allan",
+            "Title": "Executive VP, Chief Strategic Sourcing & Procurement Officer and Member of Management Board",
+            "YearBorn": "1967"
+        },
+        "5": {
+            "Name": "Jim  Kavanagh",
+            "Title": "Vice President of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "6": {
+            "Name": "Mr. Ron  Kool",
+            "Title": "Head of Business Performance Improvement",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Rob Van Vliet",
+            "Title": "Investor Relations Manager",
+            "YearBorn": "NA"
+        },
+        "8": {
+            "Name": "Mr. Peter  Convertito",
+            "Title": "Director Investor Relations- North America",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "31 40 268 3938",
+    "WebURL": "https://www.asml.com",
+    "LogoURL": "/img/logos/AS/ASML.png",
+    "FullTimeEmployees": 43193,
+    "UpdatedAt": "2025-09-14"
+}

@@ -1,0 +1,91 @@
+{
+    "Code": "1299",
+    "Type": "Common Stock",
+    "Name": "AIA Group Ltd",
+    "Exchange": "HK",
+    "CurrencyCode": "HKD",
+    "CurrencyName": "Hong Kong Dollar",
+    "CurrencySymbol": "HK$",
+    "CountryName": "Hong Kong",
+    "CountryISO": "HK",
+    "OpenFigi": "BBG0016XR1Q8",
+    "ISIN": "HK0000069689",
+    "LEI": null,
+    "PrimaryTicker": "1299.HK",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Insurance - Life",
+    "GicSector": "Financials",
+    "GicGroup": "Insurance",
+    "GicIndustry": "Insurance",
+    "GicSubIndustry": "Life & Health Insurance",
+    "Description": "AIA Group Limited, together with its subsidiaries, provides life insurance based financial services in Hong Kong. The company offers life insurance, accident, and health insurance and savings plans; and employee benefits, credit life, and pension services to corporate clients. It also involved in the distribution of investment and other financial services products. It sells its products through a network of agents and partners in Mainland China, Macau, Thailand, Singapore, Malaysia, Australia, Cambodia, Indonesia, Myanmar, New Zealand, the Philippines, South Korea, Sri Lanka, Taiwan, Brunei, Vietnam, and India. AIA Group Limited was founded in 1919 and is based in Central, Hong Kong.",
+    "Address": "AIA Central, Central, Hong Kong",
+    "AddressData": {
+        "Street": "AIA Central",
+        "City": "Central",
+        "Country": "Hong Kong"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Yuan Siong  Lee",
+            "Title": "Group Chief Executive, President & Executive Director",
+            "YearBorn": "1966"
+        },
+        "1": {
+            "Name": "Mr. Garth Brian  Jones",
+            "Title": "Group Chief Financial Officer",
+            "YearBorn": "1963"
+        },
+        "2": {
+            "Name": "Mr. Biswa Prakash  Misra",
+            "Title": "Group Chief Technology Officer & Life Operations Officer",
+            "YearBorn": "1978"
+        },
+        "3": {
+            "Name": "Mr. Mark  Konyn Ph.D.",
+            "Title": "Group Chief Investment Officer",
+            "YearBorn": "1962"
+        },
+        "4": {
+            "Name": "Mr. Lance Montague  Burbidge",
+            "Title": "Head of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "5": {
+            "Name": "Mr. Mitchell David New",
+            "Title": "Group General Counsel",
+            "YearBorn": "1965"
+        },
+        "6": {
+            "Name": "Mr. Stuart Anthony  Spencer AMP, BA, MA",
+            "Title": "Group Chief Marketing Officer",
+            "YearBorn": "1966"
+        },
+        "7": {
+            "Name": "Ms. Pek-San  Ang",
+            "Title": "Group Chief Human Resources Officer",
+            "YearBorn": "1968"
+        },
+        "8": {
+            "Name": "Mr. Wing-Shing  Chan",
+            "Title": "Regional Chief Executive & Group Chief Distribution Officer",
+            "YearBorn": "1964"
+        },
+        "9": {
+            "Name": "Mr. Andrew  Leung",
+            "Title": "Head of External Manager Strategies",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "852 2832 6166",
+    "WebURL": "https://www.aia.com",
+    "LogoURL": "/img/logos/HK/1299.png",
+    "FullTimeEmployees": 0,
+    "UpdatedAt": "2025-09-14"
+}

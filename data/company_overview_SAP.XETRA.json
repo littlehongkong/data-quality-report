@@ -1,0 +1,92 @@
+{
+    "Code": "SAP",
+    "Type": "Common Stock",
+    "Name": "SAP SE",
+    "Exchange": "XETRA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "Germany",
+    "CountryISO": "DE",
+    "OpenFigi": null,
+    "ISIN": "DE0007164600",
+    "LEI": "529900D6BF99LW9R2E68",
+    "PrimaryTicker": "SAP.F",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": "1998-04-09",
+    "InternationalDomestic": null,
+    "Sector": "Technology",
+    "Industry": "Software - Application",
+    "GicSector": "Information Technology",
+    "GicGroup": "Software & Services",
+    "GicIndustry": "Software",
+    "GicSubIndustry": "Application Software",
+    "Description": "SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The company also provides SAP customer experience solutions; SAP Business Technology platform that enables customers and partners to build, integrate, and automate applications; and SAP Business Network, a business-to-business collaboration platform that helps digitalize key business processes across the supply chain and enables communication between trading partners. In addition, it offers SAP Signavio to help customers to discover, analyze, and understand their business process operations; industry solutions that provides customers and partners with industry-specific solutions; and SAP LeanIX to visualize their as-is enterprise architecture, assess interdependencies and the potential impact of IT modernization, and manage the transition toward the target landscape with established practices and a detailed roadmap. Further, the company provides WalkMe to execute workflows across various number of applications; SAP Enable Now, which offers e-learning content embedded in SAP workflows; Taulia solutions for working capital management to help businesses create and deliver the right cash flow strategy, and the flexibility to adjust it to meet liquidity challenges; and sustainability solutions and services. Additionally, it provides services and support solutions. SAP SE was founded in 1972 and is headquartered in Walldorf, Germany.",
+    "Address": "Dietmar-Hopp-Allee 16, Walldorf, Germany, 69190",
+    "AddressData": {
+        "Street": "Dietmar-Hopp-Allee 16",
+        "City": "Walldorf",
+        "Country": "Germany",
+        "ZIP": "69190"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Christian  Klein",
+            "Title": "CEO & Member of Executive Board",
+            "YearBorn": "1980"
+        },
+        "1": {
+            "Name": "Mr. Lars  Lamade",
+            "Title": "Head of Global Sponsorships & Deputy Chairperson of the Supervisory Board",
+            "YearBorn": "1971"
+        },
+        "2": {
+            "Name": "Dr. Hasso C. Plattner",
+            "Title": "Co-Founder",
+            "YearBorn": "1944"
+        },
+        "3": {
+            "Name": "Mr. Dominik  Asam",
+            "Title": "CFO & Member of Executive Board",
+            "YearBorn": "1969"
+        },
+        "4": {
+            "Name": "Mr. Thomas  Saueressig",
+            "Title": "Customer Services & Delivery and Member of Executive Board",
+            "YearBorn": "1985"
+        },
+        "5": {
+            "Name": "Ms. Gina  Vargiu-Breuer",
+            "Title": "Chief People Officer, Labor Director & Member of Executive Board",
+            "YearBorn": "1976"
+        },
+        "6": {
+            "Name": "Mr. Muhammad  Alam",
+            "Title": "Lead Product Engineering & Member of Executive Board",
+            "YearBorn": "1978"
+        },
+        "7": {
+            "Name": "Ms. Margret  Klein-Magar",
+            "Title": "VP, Head of SAP Alumni Relations & Member of Supervisory Board",
+            "YearBorn": "1964"
+        },
+        "8": {
+            "Name": "Dr. Christine  Regitz",
+            "Title": "VP & Global Head of SAP Women in Tech",
+            "YearBorn": "1966"
+        },
+        "9": {
+            "Name": "Ms. Monika  Kovachka-Dimitrova",
+            "Title": "Chief Operations Expert",
+            "YearBorn": "1975"
+        }
+    },
+    "Phone": "49 6227 7 47474",
+    "WebURL": "https://www.sap.com",
+    "LogoURL": "/img/logos/XETRA/SAP.png",
+    "FullTimeEmployees": 108929,
+    "UpdatedAt": "2025-09-13"
+}

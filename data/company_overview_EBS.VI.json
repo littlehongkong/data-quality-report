@@ -1,0 +1,92 @@
+{
+    "Code": "EBS",
+    "Type": "Common Stock",
+    "Name": "Erste Group Bank AG",
+    "Exchange": "VI",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "Austria",
+    "CountryISO": "AT",
+    "OpenFigi": null,
+    "ISIN": "AT0000652011",
+    "LEI": "PQOH26KWDF7CG10L6792",
+    "PrimaryTicker": "EBS.VI",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Regional Banks",
+    "Description": "Erste Group Bank AG provides a range of banking and other financial services to retail, corporate, and public sector customers. The company operates through Retail, Corporates, Group Markets, Asset/Liability Management & Local Corporate Center, Savings Banks, and Group Corporate Center segments. It provides mortgage and consumer loans, investment products, current accounts, savings products, and credit cards, as well as cross selling products, such as leasing, insurance, and building society products. The company also offers factoring, accounts receivable purchasing, ErsteConfirming supply chain finance solution; investment, acquisition and leveraged, project, and commercial real estate finance, as well as financial advice; interest rate and currency hedging, letters of credit, documentary collections, and guarantees; account management, payments, digital-banking, cash logistics, and payment factory and cash pooling services; letters of credit, documentary collection, guarantees, equity interests and investments, revolving export credits lines, and customer financing; and loan syndication, and debt and equity capital market services. In addition, it provides cash management, trade finance, customer referral, markets execution, debt capital markets, and custody and brokerage services. Further, the company offers trading and market; trade execution, market making, and short-term liquidity management; asset/liability management services; securities and derivatives trading; corporate finance; portfolio management; project finance; foreign trade financing; money market services; foreign exchange trading; and leasing and factoring services. It operates in Austria, the Czech Republic, Slovakia, Romania, Hungary, Croatia, Serbia, and internationally. The company was founded in 1819 and is headquartered in Vienna, Austria.",
+    "Address": "Am Belvedere 1, Vienna, Austria, 1100",
+    "AddressData": {
+        "Street": "Am Belvedere 1",
+        "City": "Vienna",
+        "Country": "Austria",
+        "ZIP": "1100"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Dr. Peter  Bosek MP",
+            "Title": "Chairman of the Management Board, CEO & Chief Retail Officer",
+            "YearBorn": "1968"
+        },
+        "1": {
+            "Name": "Mr. Stefan  Dorfler",
+            "Title": "CFO & Member of Management Board",
+            "YearBorn": "1971"
+        },
+        "2": {
+            "Name": "Magistrate Alexandra  Habeler-Drabek Mag.",
+            "Title": "CRO & Member of the Management Board",
+            "YearBorn": "1970"
+        },
+        "3": {
+            "Name": "Magistrate Ingo  Bleier C.F.A.",
+            "Title": "Chief Corporates & Markets Officer and Member of Management Board",
+            "YearBorn": "1970"
+        },
+        "4": {
+            "Name": "Mr. Maurizio  Poletto",
+            "Title": "COO, Chief Platform Officer & Member of Management Board",
+            "YearBorn": "1973"
+        },
+        "5": {
+            "Name": "Mr. Thomas  Sommerauer",
+            "Title": "Head of Group Investor Relations",
+            "YearBorn": "1972"
+        },
+        "6": {
+            "Name": "Mr. Henning  Esskuchen",
+            "Title": "Head of Equity Research CEE",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Mr. Gernot  Mittendorfer M.B.A., MP",
+            "Title": "Consultant",
+            "YearBorn": "1964"
+        },
+        "8": {
+            "Name": "Mr. Manfred  Neuwirth",
+            "Title": "Head of Group Markets Financial Institutions",
+            "YearBorn": "NA"
+        },
+        "9": {
+            "Name": "Bernhard  Leder",
+            "Title": "Head of Group Markets Origination & Funding",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "43 5 0100 10100",
+    "WebURL": "https://www.erstegroup.com",
+    "LogoURL": "/img/logos/VI/EBS.png",
+    "FullTimeEmployees": 45942,
+    "UpdatedAt": "2025-09-14"
+}

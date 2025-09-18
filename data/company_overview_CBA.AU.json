@@ -1,0 +1,124 @@
+{
+    "Code": "CBA",
+    "Type": "Common Stock",
+    "Name": "Commonwealth Bank of Australia",
+    "Exchange": "AU",
+    "CurrencyCode": "AUD",
+    "CurrencyName": "Australian Dollar",
+    "CurrencySymbol": "A$",
+    "CountryName": "Australia",
+    "CountryISO": "AU",
+    "OpenFigi": "BBG000BS8L64",
+    "ISIN": "AU000000CBA7",
+    "LEI": "MSFSBD3QN1GSN7Q6C537",
+    "PrimaryTicker": "CBA.AU",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "June",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Commonwealth Bank of Australia provides retail and commercial banking services in Australia, New Zealand, and internationally. It operates through Retail Banking Services, Business Banking, Institutional Banking and Markets, and New Zealand segments. The company offers savings and term deposit accounts, commonwealth direct investment accounts, and retail transaction accounts, as well as specialized accounts, such as statutory trust, society cheque, farm management, cash and treasury management, and business foreign currency deposit accounts. It also provides credit cards, personal and business loans, car and equipment finance, business overdrafts, margin lending, and international payment services; home loans; and buy-now-pay-later services. In addition, the company provides home and contents, car, health, life, income protection, pet, and travel insurance products. Further, it offers transaction banking, equity trading, and risk management products and services, as well as access to debt capital markets, capital raising, and investment and financial solutions. Commonwealth Bank of Australia was founded in 1911 and is based in Sydney, Australia.",
+    "Address": "Commonwealth Bank Place South, Sydney, NSW, Australia, 2000",
+    "AddressData": {
+        "Street": "Commonwealth Bank Place South",
+        "City": "Sydney",
+        "State": "NSW",
+        "Country": "Australia",
+        "ZIP": "2000"
+    },
+    "Listings": {
+        "0": {
+            "Code": "CBAPG",
+            "Exchange": "AU",
+            "Name": "Commonwealth Bank of Australia Pref G"
+        },
+        "1": {
+            "Code": "CBAPH",
+            "Exchange": "AU",
+            "Name": "Commonwealth Bank of Australia Pref"
+        },
+        "2": {
+            "Code": "CBAPI",
+            "Exchange": "AU",
+            "Name": "Commonwealth Bank of Australia"
+        },
+        "3": {
+            "Code": "CBAPJ",
+            "Exchange": "AU",
+            "Name": "Commonwealth Bank of Australia"
+        },
+        "4": {
+            "Code": "CBAPK",
+            "Exchange": "AU",
+            "Name": "Commonwealth Bank of Australia"
+        },
+        "5": {
+            "Code": "CMWAY",
+            "Exchange": "US",
+            "Name": "Commonwealth Bank of Australia PK"
+        }
+    },
+    "Officers": {
+        "0": {
+            "Name": "Mr. Matthew  Comyn EMBA",
+            "Title": "CEO, MD & Executive Director",
+            "YearBorn": "1976"
+        },
+        "1": {
+            "Name": "Mr. Alan  Docherty",
+            "Title": "Group Executive of Financial Services & Group CFO",
+            "YearBorn": "NA"
+        },
+        "2": {
+            "Name": "Mr. Gavin  Munroe",
+            "Title": "Group Chief Information Officer",
+            "YearBorn": "NA"
+        },
+        "3": {
+            "Name": "Ms. Kiersten  Robinson",
+            "Title": "Chief People Officer",
+            "YearBorn": "1971"
+        },
+        "4": {
+            "Name": "Mr. Andrew  Hinchliff",
+            "Title": "Group Chief Risk Officer",
+            "YearBorn": "NA"
+        },
+        "5": {
+            "Name": "Ms. Vittoria Annabel June Shortt BMS, CA",
+            "Title": "Chief Executive & MD of ASB Bank Ltd.",
+            "YearBorn": "NA"
+        },
+        "6": {
+            "Name": "Ms. Emma  Bunnell",
+            "Title": "Chief Operations Officer",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Mr. Rodrigo  Castillo",
+            "Title": "Chief Technology Officer",
+            "YearBorn": "NA"
+        },
+        "8": {
+            "Name": "Ms. Melanie  Kirk",
+            "Title": "Head of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "9": {
+            "Name": "Ms. Karen  O'Flynn",
+            "Title": "Group General Counsel, Company Secretary and Group Executive of Legal & Group Secretariat",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "61 2 9262 8200",
+    "WebURL": "https://www.commbank.com.au",
+    "LogoURL": "/img/logos/AU/CBA.png",
+    "FullTimeEmployees": 48580,
+    "UpdatedAt": "2025-09-13"
+}

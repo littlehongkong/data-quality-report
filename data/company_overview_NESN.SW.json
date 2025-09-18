@@ -1,0 +1,92 @@
+{
+    "Code": "NESN",
+    "Type": "Common Stock",
+    "Name": "Nestl\u00e9 S.A.",
+    "Exchange": "SW",
+    "CurrencyCode": "CHF",
+    "CurrencyName": "Swiss Franc",
+    "CurrencySymbol": "CHF",
+    "CountryName": "Switzerland",
+    "CountryISO": "CH",
+    "OpenFigi": "BBG000CPBD63",
+    "ISIN": "CH0038863350",
+    "LEI": "KY37LUS27QQX7BB93L28",
+    "PrimaryTicker": "NESN.SW",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Consumer Defensive",
+    "Industry": "Packaged Foods",
+    "GicSector": "Consumer Staples",
+    "GicGroup": "Food, Beverage & Tobacco",
+    "GicIndustry": "Food Products",
+    "GicSubIndustry": "Packaged Foods & Meats",
+    "Description": "Nestl\u00e9 S.A., together with its subsidiaries, operates as a food and beverage company. It operates through Zone North America; Zone Europe; Zone Asia, Oceania and Africa; Zone Latin America; Zone Greater China; Nestl\u00e9 Health Science; and Nespresso segments. The company offers water under the Acqua Panna, Nestl\u00e9 Pure Life, Perrier, S.Pellegrino, Sanpellegrino, and other local brands; and chocolate and confectionery products under the Aero, Baci Perugina, KitKat, Milkybar, Smarties, and other local brands; family nutrition products, including early childhood, kids and teenagers, and maternal and adult products; cereals; dairy and drink products; food services, such as coffee, beverages, and food; healthcare nutrition products comprising lifestyle and medical nutrition products; plant-based products; and recipes. It also provides coffee products under the Blue Bottle Coffee, Nescaf\u00e9, Nescaf\u00e9 Dolce Gusto, Nespresso, and Starbucks Coffee At Home brands; culinary, chilled, and frozen food products under the DiGiorno, Garden Gourmet, Maggi, Thomy, and other local brands; ice cream products under the Antica Gelateria Del Corso, Drumstick, Extr\u00eame, H\u00e4agen-Dazs, Maxibon, and M\u00f6venpick brands; and pet care products under the Cat Chow, Dentalife, Dog Chow, Fancy Feast, Felix, Friskies, Gourmet, Purina, Purina ONE, Purina Pro Plan, Purina Pro Plan Veterinary Diets, and other local brands. The company was founded in 1866 and is headquartered in Vevey, Switzerland.",
+    "Address": "Avenue Nestl\u00e9 55, Vevey, Switzerland, 1800",
+    "AddressData": {
+        "Street": "Avenue Nestl\u00e9 55",
+        "City": "Vevey",
+        "Country": "Switzerland",
+        "ZIP": "1800"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Philipp  Navratil",
+            "Title": "CEO & Member of the Executive Board",
+            "YearBorn": "1976"
+        },
+        "1": {
+            "Name": "Ms. Anna Olive Magdelene Manz",
+            "Title": "Executive VP, CFO & Member of Executive Board",
+            "YearBorn": "1973"
+        },
+        "2": {
+            "Name": "Mr. Stefan  Palzer",
+            "Title": "Executive VP, CTO & Member of Executive Board",
+            "YearBorn": "1969"
+        },
+        "3": {
+            "Name": "Ms. Leanne D. Geale",
+            "Title": "Executive VP, Group General Counsel & Member of the Executive Board",
+            "YearBorn": "1965"
+        },
+        "4": {
+            "Name": "Mr. David  Rennie",
+            "Title": "Executive VP, Head of Strategic Business Units, Marketing & Sales and Member of Executive Board",
+            "YearBorn": "1966"
+        },
+        "5": {
+            "Name": "Mr. Sanjay  Bahadur",
+            "Title": "Executive VP, Head of Group Strategy & Business Development and Member of Executive Board",
+            "YearBorn": "1959"
+        },
+        "6": {
+            "Name": "Mr. Remy  Ejel",
+            "Title": "Executive VP, CEO of Zone Asia, Oceania & Africa and Member of Executive Board",
+            "YearBorn": "1969"
+        },
+        "7": {
+            "Name": "Ms. Anna  Mohl",
+            "Title": "Executive VP, CEO of Nestle Health Science & Member of the Executive Board",
+            "YearBorn": "NA"
+        },
+        "8": {
+            "Name": "Ms. Stephanie Pullings Hart",
+            "Title": "Executive VP, Head of Operations & Member of Executive Board",
+            "YearBorn": "1972"
+        },
+        "9": {
+            "Name": "Mr. Guillaume  Le Cunff",
+            "Title": "Executive VP, CEO of Zone Europe & Member of Executive Board",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "41 21 924 1111",
+    "WebURL": "https://www.nestle.com",
+    "LogoURL": "/img/logos/SW/NESN.png",
+    "FullTimeEmployees": 251786,
+    "UpdatedAt": "2025-09-13"
+}

@@ -1,0 +1,92 @@
+{
+    "Code": "SU",
+    "Type": "Common Stock",
+    "Name": "Schneider Electric S.E.",
+    "Exchange": "PA",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "France",
+    "CountryISO": "FR",
+    "OpenFigi": null,
+    "ISIN": "FR0000121972",
+    "LEI": "969500A1YF1XUYYXS284",
+    "PrimaryTicker": "SU.PA",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Industrials",
+    "Industry": "Specialty Industrial Machinery",
+    "GicSector": "Industrials",
+    "GicGroup": "Capital Goods",
+    "GicIndustry": "Machinery",
+    "GicSubIndustry": "Industrial Machinery & Supplies & Components",
+    "Description": "Schneider Electric S.E. engages in the energy management and industrial automation businesses worldwide. The company offers inverters, mounting frames, solar panels, other solar equipment, wind farm microgrid, and others; building management systems; power metering systems for buildings; smart monitoring and regulation of electricity or heat in buildings, such as thermostats and controls for lighting systems; cooling systems; insulating products; UPS; transmission and distribution wiring devices for wiring electrical circuits; low voltage electrical products, equipment, and systems; medium voltage switchgears and control gears; demand response and load shifting equipment, systems, and services; communication, software and control equipment, products, systems, and services for energy; and variable speed drives. It also provides modernization and maintenance services for rail transport infrastructure, zero-emissions road transport, infrastructure required for operating urban transport, low-carbon port and airport infrastructure, and electrification and ports' operations; energy management equipment and projects; service plans related to building management and power metering systems in buildings; software and data-driven solutions for building design, planning, and construction; technical consultations, such as energy audits, simulations, and trainings; energy management services; energy performance contracts; leakage control technologies for water supply systems; real-time network modeling and optimization; leakage calculation, control, and reporting; electrical and electronic equipment; remote monitoring and predictive maintenance systems; lifecycle performance management software; product repairing, refurbishing, or remanufacturing services; spare parts; and software as a service. The company was founded in 1836 and is headquartered in Rueil-Malmaison, France.",
+    "Address": "35 rue Joseph Monier, Rueil-Malmaison, France, 92500",
+    "AddressData": {
+        "Street": "35 rue Joseph Monier",
+        "City": "Rueil-Malmaison",
+        "Country": "France",
+        "ZIP": "92500"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Olivier  Blum",
+            "Title": "Chief Executive Officer",
+            "YearBorn": "1971"
+        },
+        "1": {
+            "Name": "Ms. Hilary Barbara Maxson B.Sc., M.B.A.",
+            "Title": "Chief Financial Officer",
+            "YearBorn": "1978"
+        },
+        "2": {
+            "Name": "Mr. Amit  Bhalla",
+            "Title": "Senior VP & Head of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "3": {
+            "Name": "Ms. Jing  Ren",
+            "Title": "Executive VP of Strategy, Brand & Communications",
+            "YearBorn": "1981"
+        },
+        "4": {
+            "Name": "Ms. Charise  Le",
+            "Title": "Chief Human Resources Officer",
+            "YearBorn": "1973"
+        },
+        "5": {
+            "Name": "Carina  Ho",
+            "Title": "Senior Vice President of Strategy & Business Development - China Operations",
+            "YearBorn": "NA"
+        },
+        "6": {
+            "Name": "Mr. Joszef  Spilko",
+            "Title": "President of Hungary Unit",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Ms. Annette K. Clayton",
+            "Title": "Chairwoman of North America",
+            "YearBorn": "1964"
+        },
+        "8": {
+            "Name": "Mr. Christophe  Campagne",
+            "Title": "Senior Vice President of Global Projects Execution Transformation",
+            "YearBorn": "NA"
+        },
+        "9": {
+            "Name": "Mr. Rob  McKernan",
+            "Title": "Senior Vice President of ITD Europe & Global IT Channels",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "33 1 41 29 70 00",
+    "WebURL": "https://www.se.com",
+    "LogoURL": "/img/logos/PA/SU.png",
+    "FullTimeEmployees": 155822,
+    "UpdatedAt": "2025-09-14"
+}

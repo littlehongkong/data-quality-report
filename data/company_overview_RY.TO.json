@@ -1,0 +1,100 @@
+{
+    "Code": "RY",
+    "Type": "Common Stock",
+    "Name": "Royal Bank of Canada",
+    "Exchange": "TO",
+    "CurrencyCode": "CAD",
+    "CurrencyName": "Canadian Dollar",
+    "CurrencySymbol": "C$",
+    "CountryName": "Canada",
+    "CountryISO": "CA",
+    "OpenFigi": null,
+    "ISIN": "CA7800871021",
+    "LEI": null,
+    "PrimaryTicker": "RY.TO",
+    "CUSIP": "780087102",
+    "CIK": null,
+    "EmployerIdNumber": null,
+    "FiscalYearEnd": "October",
+    "IPODate": null,
+    "InternationalDomestic": null,
+    "Sector": "Financial Services",
+    "Industry": "Banks - Diversified",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Royal Bank of Canada operates as a diversified financial service company worldwide. Its Personal Banking segment offers home equity financing, personal lending, chequing and savings accounts, private banking, auto financing, mutual funds, GICs, credit cards, and payment products and solutions. The company's Commercial Banking segments provides lending, deposit and transaction banking products and services. Its Wealth Management segment provides a suite of wealth, investment, trust, banking, credit, and other solutions to clients; asset management products to institutional and individual clients; and asset and investor services to financial institutions, asset managers, and asset owners. The company's Insurance segment offers life, health, travel, wealth, annuities, property and casualty, and reinsurance advice and solutions; digital platforms; and independent brokers and partners, as well as client-led advice and solutions. The company's Capital Markets segment offers advisory and origination, sales and trading, lending and financing, and transaction banking services to corporations, institutional clients, asset managers, private equity firms, and governments. The company was founded in 1864 and is headquartered in Toronto, Canada.",
+    "Address": "Royal Bank Plaza, Toronto, ON, Canada, M5J 2J5",
+    "AddressData": {
+        "Street": "Royal Bank Plaza",
+        "City": "Toronto",
+        "State": "ON",
+        "Country": "Canada",
+        "ZIP": "M5J 2J5"
+    },
+    "Listings": {
+        "0": {
+            "Code": "RY",
+            "Exchange": "US",
+            "Name": "Royal Bank of Canada"
+        }
+    },
+    "Officers": {
+        "0": {
+            "Name": "Mr. David I. McKay",
+            "Title": "President, CEO & Director",
+            "YearBorn": "1963"
+        },
+        "1": {
+            "Name": "Ms. Katherine  Gibson",
+            "Title": "CFO & Controller",
+            "YearBorn": "NA"
+        },
+        "2": {
+            "Name": "Mr. Douglas Antony Guzman",
+            "Title": "Deputy Chair",
+            "YearBorn": "1965"
+        },
+        "3": {
+            "Name": "Mr. Neil  McLaughlin",
+            "Title": "Group Head of RBC Wealth Management",
+            "YearBorn": "NA"
+        },
+        "4": {
+            "Name": "Mr. Derek  Neldner CFA",
+            "Title": "Group Head & CEO of RBC Capital Markets",
+            "YearBorn": "NA"
+        },
+        "5": {
+            "Name": "Mr. Bruce  Ross",
+            "Title": "Group Head of Technology & Operations",
+            "YearBorn": "NA"
+        },
+        "6": {
+            "Name": "Mr. Matthew R. Stopnik",
+            "Title": "Head of Investment Banking",
+            "YearBorn": "NA"
+        },
+        "7": {
+            "Name": "Ms. Maria  Douvas",
+            "Title": "Chief Legal & Administrative Officer",
+            "YearBorn": "NA"
+        },
+        "8": {
+            "Name": "Mr. Asim  Imran",
+            "Title": "Senior VP & Head of Investor Relations",
+            "YearBorn": "NA"
+        },
+        "9": {
+            "Name": "Ms. Kelly  Bradley",
+            "Title": "Chief Human Resources Officer",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "(888) 212-5533",
+    "WebURL": "https://www.rbc.com",
+    "LogoURL": "/img/logos/TO/RY.png",
+    "FullTimeEmployees": 97116,
+    "UpdatedAt": "2025-09-12"
+}

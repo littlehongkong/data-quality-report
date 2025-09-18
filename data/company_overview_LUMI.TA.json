@@ -1,0 +1,92 @@
+{
+    "Code": "LUMI",
+    "Type": "Common Stock",
+    "Name": "Bank Leumi Le-Israel B.M",
+    "Exchange": "TA",
+    "CurrencyCode": "ILA",
+    "CurrencyName": "Israeli Agora",
+    "CurrencySymbol": "ILA",
+    "CountryName": "Israel",
+    "CountryISO": "Il",
+    "OpenFigi": null,
+    "ISIN": "IL0006046119",
+    "LEI": null,
+    "PrimaryTicker": "LUMI.TA",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "Bank Leumi le-Israel B.M., together with its subsidiaries, provides banking and financial services for households, small and medium enterprises, and corporations in Israel, the United Kingdom, and internationally. The company provides retail, corporate, commercial, private, international banking; demand, fixed, and savings deposits; housing and collateral loans; and property and hotel finance, asset-based lending, and international money transfer services. It also provides mortgages services, such as mortgage planning, accompanying the customer through the mortgage process, and recycling existing loans; and payment, custody and cash, securities brokerage, trade finance, capital markets, investment advisory, international trade and finance, and asset management services. In addition, the company offers foreign dealing services for foreign currency and derivatives products, including forwards, options, interest rate and inflation derivatives, and commodity and securities related derivatives; and letter of credit, cash and treasury management, documentary collection, and online and mobile banking services. Bank Leumi le-Israel B.M. was founded in 1902 and is headquartered in Tel Aviv-Yafo, Israel.",
+    "Address": "34 Yehuda Halevi Street, Tel Aviv, Israel, 651316",
+    "AddressData": {
+        "Street": "34 Yehuda Halevi Street",
+        "City": "Tel Aviv",
+        "Country": "Israel",
+        "ZIP": "651316"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Hanan Shmuel Friedman",
+            "Title": "President & CEO",
+            "YearBorn": "1971"
+        },
+        "1": {
+            "Name": "Dr. Omer  Ziv (Isr.,), CPA",
+            "Title": "Deputy CEO, First Executive Vice President & Head of the Capital Markets Division",
+            "YearBorn": "1970"
+        },
+        "2": {
+            "Name": "Ms. Hana Bosmat Ben-Zvi CPA",
+            "Title": "First EVP, Chief Internal Auditor & Head of the Internal Audit Division",
+            "YearBorn": "1978"
+        },
+        "3": {
+            "Name": "Mr. Eyal  Efrat",
+            "Title": "First Executive VP, Senior Deputy GM & Head of Technologies Division",
+            "YearBorn": "1976"
+        },
+        "4": {
+            "Name": "Mr. Michael  Schiller",
+            "Title": "Chief Executive Officer of Bank Leumi UK",
+            "YearBorn": "1977"
+        },
+        "5": {
+            "Name": "Mr. Ron Ben Haim",
+            "Title": "Chief Executive Officer of Leumi Partners",
+            "YearBorn": "1969"
+        },
+        "6": {
+            "Name": "Ms. Hagit  Argov CPA",
+            "Title": "First EVP, Head of the Finance Division & CFO",
+            "YearBorn": "1978"
+        },
+        "7": {
+            "Name": "Mr. Avi  Polak",
+            "Title": "First Executive VP and Head of Operations & Service Division",
+            "YearBorn": "NA"
+        },
+        "8": {
+            "Name": "Mr. Sasson  Elya",
+            "Title": "Chief Technology Officer & Director",
+            "YearBorn": "1964"
+        },
+        "9": {
+            "Name": "Mr. Pinchas  Schatz",
+            "Title": "Head of the Compliance & Enforcement Department and Chief Compliance Officer",
+            "YearBorn": "NA"
+        }
+    },
+    "Phone": "972 76 885 8111",
+    "WebURL": "https://www.leumi.co.il",
+    "LogoURL": "/img/logos/TA/LUMI.png",
+    "FullTimeEmployees": 7833,
+    "UpdatedAt": "2025-09-12"
+}

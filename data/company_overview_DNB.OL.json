@@ -1,0 +1,92 @@
+{
+    "Code": "DNB",
+    "Type": "Common Stock",
+    "Name": "DnB ASA",
+    "Exchange": "OL",
+    "CurrencyCode": "NOK",
+    "CurrencyName": "Norwegian Krone",
+    "CurrencySymbol": "kr",
+    "CountryName": "Norway",
+    "CountryISO": "NO",
+    "OpenFigi": null,
+    "ISIN": "NO0010161896",
+    "LEI": "549300GKFG0RYRRQ1414",
+    "PrimaryTicker": "DNB.OL",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": null,
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Financial Services",
+    "Industry": "Banks - Regional",
+    "GicSector": "Financials",
+    "GicGroup": "Banks",
+    "GicIndustry": "Banks",
+    "GicSubIndustry": "Diversified Banks",
+    "Description": "DNB Bank ASA provides financial services to individuals and businesses in Norway and internationally. The company offers savings, current, currency, client, tax withholding, and pension accounts; fixed rate and security deposits; home and cabin mortgages, construction and fixed-rate loans, car and consumer loans, business loans, and refinancing; home equity credit lines; car, house, home contents, travel, personal, and non-life insurance products; payment services; and online and mobile banking services, as well as cards. It also provides overdraft facilities; leasing services; factoring, supply chain, and receivable purchase financing services; bank guarantees; secure trading, documentary collection, and letter of credit services; investment banking services, such as mergers and acquisitions, equity and debt capital market, loans, bonds, convertible bonds, direct lending, and other private placements; and private financing and commodities, as well as equity trading, foreign exchange, research, share and stock market, securities, and risk advisory services. In addition, the company offers treasury management, working capital, trade finance, equipment financing, real estate broking, and corporate finance services. DNB Bank ASA was founded in 1822 and is headquartered in Oslo, Norway.",
+    "Address": "Dronning Eufemias gate 30, Oslo, Norway, 0191",
+    "AddressData": {
+        "Street": "Dronning Eufemias gate 30",
+        "City": "Oslo",
+        "Country": "Norway",
+        "ZIP": "0191"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Ms. Kjerstin Rasmussen Braathen",
+            "Title": "Group Chief Executive Officer",
+            "YearBorn": "1970"
+        },
+        "1": {
+            "Name": "Ms. Ida  Lerner",
+            "Title": "Group Chief Financial Officer",
+            "YearBorn": "1975"
+        },
+        "2": {
+            "Name": "Ms. Maria Ervik Loevold",
+            "Title": "Group EVP of the Retail Market & Personal Banking and COO",
+            "YearBorn": "1979"
+        },
+        "3": {
+            "Name": "Ms. Elin  Sandnes",
+            "Title": "Group Executive Vice President of Technology & Services",
+            "YearBorn": "1988"
+        },
+        "4": {
+            "Name": "Mr. Fredrik  Berger",
+            "Title": "Group Executive VP of Group Compliance & Group Chief Compliance Officer",
+            "YearBorn": "1981"
+        },
+        "5": {
+            "Name": "Mr. Even Graff Westerveld",
+            "Title": "Group Executive Vice President of People & Communication",
+            "YearBorn": "1980"
+        },
+        "6": {
+            "Name": "Mr. Harald  Serck-Hanssen",
+            "Title": "Group Executive Vice President of Large Corporates & International",
+            "YearBorn": "1965"
+        },
+        "7": {
+            "Name": "Mr. Rasmus Aage T. Figenschou",
+            "Title": "Group EVP of Corporate Banking Norway & EVP of Corporate Market",
+            "YearBorn": "1979"
+        },
+        "8": {
+            "Name": "Mr. Hakon Elvekrok Hansen",
+            "Title": "Group Executive Vice President of Wealth Management",
+            "YearBorn": "1966"
+        },
+        "9": {
+            "Name": "Mr. Morten  Opstad",
+            "Title": "Group Executive Vice President of Markets",
+            "YearBorn": "1981"
+        }
+    },
+    "Phone": "47 91 50 48 00",
+    "WebURL": "https://www.dnb.no",
+    "LogoURL": "/img/logos/OL/DNB.png",
+    "FullTimeEmployees": 11045,
+    "UpdatedAt": "2025-09-13"
+}

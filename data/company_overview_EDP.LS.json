@@ -1,0 +1,67 @@
+{
+    "Code": "EDP",
+    "Type": "Common Stock",
+    "Name": "EDP - Energias de Portugal S.A.",
+    "Exchange": "LS",
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencySymbol": "\u20ac",
+    "CountryName": "Portugal",
+    "CountryISO": "PT",
+    "OpenFigi": null,
+    "ISIN": "PTEDP0AM0009",
+    "LEI": "529900CLC3WDMGI9VH80",
+    "PrimaryTicker": "EDP.LS",
+    "CIK": null,
+    "EmployerIdNumber": "",
+    "FiscalYearEnd": "December",
+    "IPODate": "1997-06-17",
+    "InternationalDomestic": "International/Domestic",
+    "Sector": "Utilities",
+    "Industry": "Utilities - Diversified",
+    "GicSector": "Utilities",
+    "GicGroup": "Utilities",
+    "GicIndustry": "Electric Utilities",
+    "GicSubIndustry": "Electric Utilities",
+    "Description": "EDP, S.A. engages in the generation, transmission, distribution, and supply of electricity in Portugal, Spain, France, Poland, Romania, Italy, Belgium, the United Kingdom, Greece, Colombia, Brazil, North America, and internationally. It operates through Renewables, Networks, and Client Solutions & Energy Management segments. The company primarily generates and sells electricity through hydro, combined-cycle gas turbine, coal, wind, solar, nuclear, and cogeneration and waste sources. The company is also involved in the supply of natural gas. In addition, it offers engineering, laboratory tests, professional training, and energy services, as well as property management services. The company was formerly known as EDP - Energias de Portugal, S.A. and changed its name to EDP, S.A. in April 2024. The company was incorporated in 1976 and is headquartered in Lisbon, Portugal.",
+    "Address": "Avenida 24 de Julho 12, Lisbon, Portugal, 1249-300",
+    "AddressData": {
+        "Street": "Avenida 24 de Julho 12",
+        "City": "Lisbon",
+        "Country": "Portugal",
+        "ZIP": "1249-300"
+    },
+    "Listings": {},
+    "Officers": {
+        "0": {
+            "Name": "Mr. Miguel Stilwell d' Andrade",
+            "Title": "Chairman of the Executive Board of Directors & CEO",
+            "YearBorn": "1976"
+        },
+        "1": {
+            "Name": "Mr. Rui Manuel Rodrigues Lopes Teixeira",
+            "Title": "CFO & Member of the Executive Board of Directors",
+            "YearBorn": "1972"
+        },
+        "2": {
+            "Name": "Mr. Jose Miguel Henriques Viana",
+            "Title": "Head of Investor Relations & Sustainability",
+            "YearBorn": "1972"
+        },
+        "3": {
+            "Name": "Ms. Ana Rita Pont\u00edfice Ferreira De Almeida C\u00f4rte-Real",
+            "Title": "Company Secretary",
+            "YearBorn": "NA"
+        },
+        "4": {
+            "Name": "Ms. Paula Cristina Santos Guerra",
+            "Title": "Treasurer",
+            "YearBorn": "1973"
+        }
+    },
+    "Phone": "351 21 001 2834",
+    "WebURL": "https://www.edp.com/en/",
+    "LogoURL": "/img/logos/LS/EDP.png",
+    "FullTimeEmployees": 12272,
+    "UpdatedAt": "2025-09-14"
+}
